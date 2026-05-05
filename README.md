@@ -110,7 +110,7 @@ This ensures:
 
 ---
 
-## 🧪 Training Strategy
+## Training Strategy
 
 Each head is trained independently:
 
@@ -183,7 +183,7 @@ All other libraries should already be installed by default
 
 ---
 
-## 📈 Key Learnings
+## Key Learnings
 
 - Larger models (**ResNet-18**) outperformed lightweight architectures when trained from scratch  
 - Data augmentation must remain **stochastic** to be effective  
@@ -192,7 +192,7 @@ All other libraries should already be installed by default
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - Add **pretrained backbone** (transfer learning)  
 - Improve **OOD detection accuracy** with advanced methods (e.g., energy-based models)  
@@ -201,15 +201,7 @@ All other libraries should already be installed by default
 
 ---
 
-## 📬 Contact
-
-**Your Name**  
-- LinkedIn: https://linkedin.com/in/yourprofile  
-- Email: your@email.com  
-
----
-
-## ⭐ Why This Project Matters
+## Why This Project Matters
 
 This project demonstrates my ability to:
 
